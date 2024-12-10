@@ -1,0 +1,25 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# Migrations
+migrations/
